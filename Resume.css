@@ -1,14 +1,29 @@
+
+
+
 body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: #222;
+  background: #f7f5f0;
+
      font-family: "Arial"
 }
 
-.main-image {
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
       border: solid 2px black;
-      border-radius: 30%;
+      border-radius: 10%;
+  
 }
 
 h1 {
-   background-color: #e2e2e2;
+   background-color: #b93a3a;
    padding: 5px;
 }
 
